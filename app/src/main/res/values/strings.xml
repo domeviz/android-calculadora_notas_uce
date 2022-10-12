@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NOTAS UCE</string>
+    <string name="titulo_String">Calculo de Notas</string>
+    <string name="inserte_String">Inserte sus notas sobre 10</string>
+    <string name="nota_individual_String">Individual</string>
+    <string name="nota_grupal_String">Grupal</string>
+    <string name="nota_examen_String">Examen</string>
+    <string name="sobre">/10</string>
+    <string name="resultado_String">Su resultado es:</string>
+    <string name="nota_final_String">Nota final</string>
+    <string name="calcular_String">Calcular</string>
+</resources>
